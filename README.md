@@ -197,7 +197,7 @@ footer {
 <section id="contato">
     <h2>Contato</h2>
     <div class="card">
-        <p>Email: seuemail@email.com</p>
+        <p>Email: pquintino656@email.com</p>
         <p>LinkedIn: linkedin.com/in/seunome</p>
     </div>
 </section>
